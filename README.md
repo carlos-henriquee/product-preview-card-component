@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-html-and-css-with-flexbox-HIh8hSCbUQ)
-- Live Site URL: [](https://product-preview-card-component-mocha-xi.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-html-and-css-with-flexbox-HIh8hSCbUQ)
+- Live Site URL: (https://product-preview-card-component-mocha-xi.vercel.app/)
 
 ## My process
 
